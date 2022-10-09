@@ -10,3 +10,5 @@ To successfully complete this week's Challenge, all acceptance criteria must be 
 - `accessibility standards`
 - `HTML semantics`
 - `the structure of the HTML elements`
+  **In CCSS I Used**
+- `CSS variables`
